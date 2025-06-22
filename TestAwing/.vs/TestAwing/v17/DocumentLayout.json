@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TestAwing\\TestAwing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|e:\\testawing\\testawing\\application\\services\\treasuremapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|solutionrelative:application\\services\\treasuremapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05399BF5-9672-4DDA-BC98-3210F2C708D4}|Domain\\Domain.csproj|e:\\testawing\\testawing\\domain\\interfaces\\itreasuremaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05399BF5-9672-4DDA-BC98-3210F2C708D4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\itreasuremaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|e:\\testawing\\testawing\\application\\interfaces\\itreasuremapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itreasuremapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|e:\\testawing\\testawing\\testawing\\controllers\\treasuremapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|solutionrelative:testawing\\controllers\\treasuremapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|e:\\testawing\\testawing\\testawing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|solutionrelative:testawing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|e:\\testawing\\testawing\\testawing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|solutionrelative:testawing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|e:\\testawing\\testawing\\application\\dtos\\createtreasuremaprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BCF413-E97D-4428-946A-995B80260E2F}|Application\\Application.csproj|solutionrelative:application\\dtos\\createtreasuremaprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|e:\\testawing\\testawing\\testawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|solutionrelative:testawing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05399BF5-9672-4DDA-BC98-3210F2C708D4}|Domain\\Domain.csproj|e:\\testawing\\testawing\\domain\\entities\\treasuremapentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05399BF5-9672-4DDA-BC98-3210F2C708D4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\treasuremapentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|e:\\testawing\\testawing\\testawing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{183E0E1A-DCD4-4759-B495-579F796EDC38}|TestAwing\\TestAwing.csproj|solutionrelative:testawing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITreasureMapService.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\Application\\Interfaces\\ITreasureMapService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITreasureMapService.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\Application\\Interfaces\\ITreasureMapService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITreasureMapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:07:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreasureMapService.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\Application\\Services\\TreasureMapService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TreasureMapService.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\Application\\Services\\TreasureMapService.cs",
+              "RelativeToolTip": "Application\\Services\\TreasureMapService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:15:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreasureMapController.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\TestAwing\\Controllers\\TreasureMapController.cs",
+              "RelativeDocumentMoniker": "TestAwing\\Controllers\\TreasureMapController.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\TestAwing\\Controllers\\TreasureMapController.cs",
+              "RelativeToolTip": "TestAwing\\Controllers\\TreasureMapController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:58:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\TestAwing\\appsettings.json",
+              "RelativeDocumentMoniker": "TestAwing\\appsettings.json",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\TestAwing\\appsettings.json",
+              "RelativeToolTip": "TestAwing\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T06:22:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\TestAwing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestAwing\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\TestAwing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestAwing\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T11:57:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTreasureMapRequest.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\Application\\DTOs\\CreateTreasureMapRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateTreasureMapRequest.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\Application\\DTOs\\CreateTreasureMapRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateTreasureMapRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:18:34.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITreasureMapRepository.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\Domain\\Interfaces\\ITreasureMapRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITreasureMapRepository.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\Domain\\Interfaces\\ITreasureMapRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITreasureMapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:18:40.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\TestAwing\\Program.cs",
+              "RelativeDocumentMoniker": "TestAwing\\Program.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\TestAwing\\Program.cs",
+              "RelativeToolTip": "TestAwing\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:58:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TreasureMapEntity.cs",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\Domain\\Entities\\TreasureMapEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TreasureMapEntity.cs",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\Domain\\Entities\\TreasureMapEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\TreasureMapEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:18:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\TestAwing\\TestAwing\\TestAwing\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TestAwing\\appsettings.Development.json",
+              "ToolTip": "E:\\TestAwing\\TestAwing\\TestAwing\\appsettings.Development.json",
+              "RelativeToolTip": "TestAwing\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T06:22:49.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

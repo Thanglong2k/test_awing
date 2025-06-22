@@ -1,0 +1,6 @@
+@TestAwing_HostAddress = http://localhost:5094
+
+GET {{TestAwing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
